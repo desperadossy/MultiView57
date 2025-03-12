@@ -7,7 +7,7 @@ MultiView57 Dataset for Pointcloud Completion
 
 *MultiView57.json: object category of the MultiView57 Dataset 
 
-*Dataset branch structure:  
+# Dataset branch structure:  
 │MultiView57/  
 ├──train/  
 │  ├── 02691156  
